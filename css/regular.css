@@ -1,0 +1,7 @@
+table {
+    text-align: center;
+}
+
+table td, th {
+    vertical-align: middle !important;
+  }

@@ -1,0 +1,63 @@
+.panel
+{
+    margin-bottom: 0px;
+}
+.checkout-step 
+{
+    border-top: 1px solid #607d8b21;
+    color: #666;
+    font-size: 14px;
+    padding: 15px 10px;
+    position: relative;
+}
+
+.checkout-step-number 
+{
+    border-radius: 10px;
+    border: 2px solid #29506f;
+    display: inline-block;
+    font-size: 13px;
+    color: #29506f;
+    font-weight: bold;
+    height: 32px;
+    margin-right: 15px;
+    padding: 4px 6px 6px 6px;
+    text-align: center;
+    width: 32px;
+}
+.checkout-step-title
+{ 
+    font-size: 16px;
+    font-weight: 500;
+    vertical-align: middle;display: inline-block; margin: 0px;
+    color: #3d4884;
+}
+
+.checkout-step-body
+{
+    background: #fbfbfb;
+    padding: 15px 0px;
+    margin: 20px 0px 0px;
+}
+
+.orders_header
+{
+    background: #fff;
+    padding: 15px;
+}
+
+.btn-right
+{
+    padding: 2px;
+    color: #29506f;
+    font-size: 1.5em;
+    -webkit-text-stroke: 1px white;
+}
+
+.btn-num
+{
+    padding: 2px;
+    color: #29506f;
+    font-size: 13px;
+    -webkit-text-stroke: 0.5px white;
+}

@@ -1,0 +1,16 @@
+#main { 
+    margin-bottom: 3.3em; 
+}
+
+#basket_button {
+    visibility: hidden;
+}
+
+html {
+    background-color: #343a40;
+    -moz-user-select: none; 
+    -webkit-user-select: none; 
+    -ms-user-select:none; 
+    user-select:none;
+    -o-user-select:none;
+}
